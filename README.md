@@ -152,7 +152,6 @@ Bu loyiha real-time valyuta kurslarini konvertatsiya qilish uchun yaratilgan zam
 - [ ] Valyuta tarixi (30 kunlik)
 - [ ] PDF hisobot yaratish
 - [ ] Valyuta widget'i
-- [ ] Telegram bot integratsiyasi
 - [ ] Ko'p tillilik (Uz, Ru, En)
 - [ ] Valyuta nyuslari
 - [ ] Grafik tahlil
